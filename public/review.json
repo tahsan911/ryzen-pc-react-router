@@ -1,0 +1,72 @@
+[
+<<<<<<< HEAD
+    {   "id": "1",
+=======
+    {
+>>>>>>> 95c51b9 (2/5 done)
+        "img": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1649149153~exp=1649149753~hmac=1e4a073458704c44d17926108adcaa28ed7cb15dc2e3b0ab4eecc6073fc180dc&w=740",
+        "name": "Natasha Romanoff",
+        "text": "Amazing Pc for mid-spec person who have medium mone to buy a computer, very satisfied",
+        "ratings": "4.5/5"
+    },
+<<<<<<< HEAD
+    {   "id": "2",
+        "img": "https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?t=st=1649152760~exp=1649153360~hmac=615258d4fb0e15b35719e057528fd0c0a1b5875ec93cfe90e5604a018b857664&w=740",
+        "name": "Tom Heddleston",
+        "text": "Best pc for everyone with this budget. Satisfied",
+        "ratings": "5/5"
+    },
+    {   "id": "3",
+        "img": "https://img.freepik.com/free-photo/handsome-successful-businessman-smiling_176420-19024.jpg?w=740",
+        "name": "Peter parker",
+        "text": "Good Product at the price. Recomended for everyone! ",
+        "ratings": "3/5"
+    },
+    {   "id": "4",
+=======
+    {
+        "img": "https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?t=st=1649152760~exp=1649153360~hmac=615258d4fb0e15b35719e057528fd0c0a1b5875ec93cfe90e5604a018b857664&w=740",
+        "name": "Brie Larson",
+        "text": "Best pc for everyone with this budget. Satisfied",
+        "ratings": "5/5"
+    },
+    {
+        "img": "https://img.freepik.com/free-photo/handsome-successful-businessman-smiling_176420-19024.jpg?w=740",
+        "name": "Karen Gillan ",
+        "text": "Good Product at the price. Recomended for everyone! ",
+        "ratings": "3/5"
+    },
+    {
+>>>>>>> 95c51b9 (2/5 done)
+        "img": "https://img.freepik.com/free-photo/beautiful-curly-girl-pointing-finger_176420-168.jpg?t=st=1649152760~exp=1649153360~hmac=a9a0e358dcabade5fd5640efe033240d437b1b77b2911336df5de5c80cf65e07&w=740",
+        "name": "Pom Klementieff ",
+        "text": "very good pc in this budged for everyone",
+        "ratings": "3.5/5"
+    },
+<<<<<<< HEAD
+    {   "id": "5",
+        "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?t=st=1649152760~exp=1649153360~hmac=82c45b3ffbe10763fc1a212c132dbf984220554f66659e17f3bddd93177864ef&w=740",
+        "name": "Chris Hemsworth",
+        "text": "Cannot believe this is effortable for me. I Can play mid-spec games very well",
+        "ratings": "4.5/5"
+    },
+    {   "id": "6",
+=======
+    {
+        "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?t=st=1649152760~exp=1649153360~hmac=82c45b3ffbe10763fc1a212c132dbf984220554f66659e17f3bddd93177864ef&w=740",
+        "name": "Gemma Chan",
+        "text": "Cannot believe this is effortable for me. I Can play mid-spec games very well",
+        "ratings": "4.5/5"
+    },
+    {
+>>>>>>> 95c51b9 (2/5 done)
+        "img": "https://img.freepik.com/free-photo/cute-freelance-girl-using-laptop-sitting-floor-smiling_176420-20221.jpg?t=st=1649152760~exp=1649153360~hmac=5cab8a768a6b1d410159947f95fb8fbc7333146876290748f4bfdefa5414c9a4&w=740",
+        "name": "Angelina Jolie",
+        "text": "Thank you for the product. It is really helping me to do a lot of work.",
+        "ratings": "4/5"
+    }
+<<<<<<< HEAD
+]
+=======
+]
+>>>>>>> 95c51b9 (2/5 done)

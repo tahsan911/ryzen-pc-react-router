@@ -1,0 +1,19 @@
+.font{
+    font-weight: 800;
+}
+.arrow{
+    width: 20px;
+    color: whitesmoke;
+    margin-left: 10px;
+}
+.button{
+    outline: none;
+    padding: 15px 30px;
+    color: white;
+    background-image: linear-gradient(to right, orange, orangered);
+    border: none;
+    border-radius: 5px;
+}
+.button:focus{
+    background-image: linear-gradient(to right, orangered, orange);
+}

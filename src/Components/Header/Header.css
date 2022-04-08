@@ -1,0 +1,10 @@
+.borders:focus {
+  color: orangered !important;
+  border-bottom: 2px solid orangered;
+  padding: 5px 40px;
+  box-sizing: border-box;
+}
+.menu {
+  width: 30px;
+  color: grey;
+}
