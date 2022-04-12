@@ -37,11 +37,14 @@ const Header = () => {
             >
               BLOGS
             </Link>
-            <Link
-              className="fw-bold mx-5 py-4 py-lg-0 text-decoration-none text-white borders"
-              to="/About"
-            >
-              ABOUT
+            
+            <Link className="fw-bold mx-5 py-4 py-lg-0 text-decoration-none text-white borders"
+              to="/Login">
+              Login
+            </Link>
+            <Link className="fw-bold mx-5 py-4 py-lg-0 text-decoration-none text-white borders"
+              to="/Signup">
+              Sign Up
             </Link>
           </Nav>
         </Navbar.Collapse>
